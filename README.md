@@ -34,15 +34,11 @@ Using advanced CSS and HTML that was learned. It can show future employers and o
 
 ### Screenshot #1:
 
-![Screenshot (6)](https://user-images.githubusercontent.com/47751469/118383030-13795880-b5c0-11eb-9bfa-0a390afb6f85.png)
-
-### Screenshot #2:
-
-![Screenshot (7)](https://user-images.githubusercontent.com/47751469/118383098-a4503400-b5c0-11eb-96ea-be3a47da39bc.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/47751469/119252397-a93d5680-bb71-11eb-9bda-7281993f2524.png)
 
 
-#### Website: https://darkholyphoenix.github.io/Challenge-1/
+#### Website: https://darkholyphoenix.github.io/Portfolio/
 
-#### Repository Location: https://github.com/darkholyphoenix/Challenge-1
+#### Repository Location: https://github.com/darkholyphoenix/Portfolio
 
 
